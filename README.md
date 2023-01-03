@@ -46,7 +46,9 @@ The first five rows of the wrangled data are shown below
 date |	time	|   name    |	message
 |:--:|:--------:|----------:|:--------:|
 2021-08-22 |	08:21:00 |	Skillup |	Please someone should post the compiled zoom t...
-2021-08-22 |	17:07:00 |	Rufus |	https://arcg.is/0nyGPD0 The online medical ...
+2021-08-22 |	17:07:00 |	Rufus |	The online medical ...
 2021-08-22 |	17:08:00 |	Rufus |	This stuff is long now
 2021-08-22 |	17:08:00 |	Rufus |	Does that did before did not fill this now
 2021-08-22 |    17:08:00 |	Goodness CSC |	Just fill the part I aspect
+
+
